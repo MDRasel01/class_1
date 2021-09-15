@@ -1,0 +1,27 @@
+html---table+list+h1-h6+ptag....
+css----inline+internal+external
+       external the best
+csss property---font
+===========================
+padding-----space from inside
+marging-----outside from space
+text-
+background
+border
+overflow
+outline
+
+=========
+background-color
+background-image
+background-position-center/right/left
+background-repeat--repeat/no-repeat
+background-size--cover(standard)
+
+===================
+padding:0px---top, rigth, bottom, left
+padding:0px---0px, top-bottom right-left
+padding: 0px 0px 0px 0px
+
+
+image---must heigth and width fixed korte hobe
